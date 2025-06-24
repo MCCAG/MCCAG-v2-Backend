@@ -2,6 +2,9 @@
 
 # 🥰 MCCAG API
 
+> [!WARNING]
+> 此仓库已弃用，[点击查看新仓库](https://github.com/MCCAG/MCCAG-v2.5-Proxy)
+
 <img src="https://github.com/Natsusomekeishi/MCCAG/blob/main/static/logo.png" alt="MCCAG Logo">
 
 _Minecraft Cute Avatar Generator_  
